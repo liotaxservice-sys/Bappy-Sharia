@@ -1,0 +1,5 @@
+{
+  "name": "Breeder Farm Daily Record",
+  "description": "A web application for tracking daily mortality, feed, and water intake for a breeder farm during the growing period. It features role-based access, data carryover logic, historical record filtering, and CSV export functionality.",
+  "requestFramePermissions": []
+}
